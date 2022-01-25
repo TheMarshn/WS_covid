@@ -1,5 +1,10 @@
 body {
     margin: 0;
-    background: red;
+    background: whitesmoke;
     text-align: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
